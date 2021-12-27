@@ -23,12 +23,16 @@ npm i
 ### ➡️ Usage
 **Android with android studio**
 ```
+npm install @capacitor/core
+npm install @capacitor/cli --save-dev
 npx ionic build
 npx cap add android
 npx cap open android
 ```
 **Ios with xcode**
 ```
+npm install @capacitor/core
+npm install @capacitor/cli --save-dev
 npx ionic build
 npx cap add ios
 npx cap open ios
