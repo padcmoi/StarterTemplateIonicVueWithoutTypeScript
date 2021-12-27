@@ -1,6 +1,10 @@
 ## Starter Template IonicVue Without TypeScript
 Pack Starter template IonicVue with only JS, TS uninstalled
 
+### ➡️ Require
+```
+npm install -g @ionic/cli @capacitor/core @capacitor/cli
+```
 **more information on:**
 - Ionic https://ionicframework.com/docs/vue/overview
 - Capacitor https://capacitorjs.com
