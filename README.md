@@ -12,6 +12,10 @@ npm install -g @ionic/cli @capacitor/core @capacitor/cli
 
 ### ➡️ Install
 ```
+git clone https://github.com/padcmoi/StarterTemplateIonicVueWithoutTypeScript
+cd StarterTemplateIonicVueWithoutTypeScript
+
+// <FOLDER> = Blank, List, SideMenu, Tabs
 cd <FOLDER>
 npm i
 ```
