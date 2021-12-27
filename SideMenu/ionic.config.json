@@ -1,0 +1,7 @@
+{
+  "name": "StarterTemplateVueIonic-SideMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

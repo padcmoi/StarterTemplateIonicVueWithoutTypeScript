@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "StarterTemplateVueIonic-SideMenu",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "StarterTemplateVueIonic-Blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
